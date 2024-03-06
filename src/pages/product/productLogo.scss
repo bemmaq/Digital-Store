@@ -1,0 +1,131 @@
+.detail {
+    margin-top: 100px;
+    display: flex;
+  }
+  .detail-cont {
+    margin-top: 50px;
+  }
+  .razmer {
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+    width: 260px;
+    border-radius: 3px;
+    border: none;
+  }
+  .razmer p:hover {
+    background-color: rgba(201, 32, 113, 1);
+    color: white;
+  }
+  .razmer p {
+    width: 35px;
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.153);
+    padding: 5px 5px;
+    
+  }
+  .color-1 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: rgba(111, 238, 255, 1);
+  }
+  .color-2 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: rgba(255, 105, 105, 1);
+  }
+  .color-3 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background: rgba(94, 94, 94, 1);    
+  }
+  .color-4 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: rgba(109, 112, 183, 1);
+  }
+  .colorig {
+    display: flex;
+    padding-top: 30px;
+    gap: 20px;
+  }
+  .raz {
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 32px;
+  
+  }
+  .col {
+    padding-top: 30px;
+    font-weight: 500;
+    color: grey;
+  }
+  .btn-detail input {
+    width: 45px;
+    height: 45px;
+    border: 1px solid grey;
+    padding: 10px 18px;
+  }
+  .btn-detail  {
+    display: flex;
+    padding-top: 20px;
+    gap: 10px;
+  }
+  .btn-detail button {
+    width: 160px;
+    height: 45px;
+    color: white;
+    background-color: rgba(246,170,28,1);
+    border: transparent;
+  }
+  .prais-3 {
+    font-weight: 500;
+    font-size: 30px;
+    color: #998e78;
+
+    padding-top: 50px;
+  }
+  .star_btn{
+    width: 63px;
+    height: 23px;
+    background: rgba(246, 170, 28, 1);
+    color: white;
+    padding: 6px, 10px, 6px, 10px;
+    border-radius: 4px;
+    border: none;
+    margin-left: 20px;
+
+
+  }
+  .carual{
+    padding-top: 10px;
+  }
+  .stars{
+    padding-top: 10px;
+  }
+  .text_lorem{
+    padding-top: 10px;
+    h6{
+        color:grey
+    }
+    p{
+        padding-top: 20px;
+        width: 440px;
+         height: 66px;
+    }
+  }
+  .block_map{
+    padding-top: 100px;
+    display: flex;
+    gap: 3rem;
+
+  }
+  .img_main{
+    width: 250px;
+    height: 250px;
+    border: 1px solid rgba(128, 128, 128, 0.242);
+  }

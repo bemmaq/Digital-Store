@@ -1,0 +1,118 @@
+
+.footer{
+    background: rgba(31, 31, 31, 1);
+    height: 400px;
+
+
+}
+.footer_title{
+    padding-top: 30px;
+    display: flex;
+    gap: 9rem;
+    p{
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+}
+.footer_logo{
+display: flex;
+gap: 0.6rem;
+}
+.digital{
+    padding-top: 8px;
+}
+.title{
+ p{
+    padding-top: 20px;
+    line-height: 23px;
+ }
+ .footer_images{
+    padding-top: 40px;
+    display: flex;
+    gap: 2rem;
+ }
+}
+.contact{
+    display: flex;
+    gap: 9rem;
+    span{
+        color: white;
+    }
+    p{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 32px;
+        color: rgba(255, 255, 255, 1);
+
+        
+    }
+}
+.college{
+ padding-top: 50px;
+    hr{
+        background-color: red;
+        color: gray;
+    }
+    span{
+        
+        // margin-top:  100px;
+        background-color: red;
+    }
+}
+.ddd{
+    
+    padding-left: 500px;
+    color: white;
+}
+.infor{
+    width: 135px;
+height: 228px;
+top: 122px;
+left: 612px;
+font-size: 16px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.catego{
+    width: 96px;
+height: 190px;
+top: 122px;
+left: 849px;    
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.conta{
+    width: 231px;
+height: 78px;
+top: 122px;
+left: 1113px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+hr{
+    margin-bottom: 10px;
+}
+.digi{
+    margin-top: 100px;
+    text-align: center;
+    // background-color: red;
+    color: white;
+}

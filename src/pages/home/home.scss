@@ -1,0 +1,203 @@
+.home_content{
+    background: rgba(245, 245, 245, 1);
+    margin-top: 30px;
+
+    .home_img{
+        display: flex;
+    }
+    h5{
+        color: rgba(246, 170, 28, 1);
+
+    }
+    h1{
+        font-weight: 700;
+        font-size: 50px;
+
+        
+    }
+    p{
+        line-height: 25px;
+    }
+    button{
+        width: 150px;
+       height: 35px;
+       background: rgba(201, 32, 113, 1);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      margin-top: 30px;
+
+    }
+}
+.content_home{
+    display: flex;
+}
+
+.home_text{
+    margin-top: 100px;
+    h5{
+        font-size: 16px;
+        font-weight: 700;
+    }
+    h1{
+        font-size: 47px;
+        font-family: 700;
+    }
+    p{
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
+.text_1{
+    padding-top: 30px;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+ 
+   
+}
+.block{
+    display: flex;
+    border:1px solid #bab1b143;
+    width: 390px;
+    background: rgba(136, 141, 182, 0.488);
+    border-radius: 12px;
+    margin-top: 30px;
+    padding-left: 30px;
+
+    .box{
+        padding-top: 34px;
+    }
+      
+
+
+    span{
+        width: 96px;
+        padding: 5px 15px;
+        border-radius: 16px;
+        background: rgba(231, 255, 134, 1);
+
+    }
+    h2{
+        margin-top: 20px;
+        font-size: 21px;
+        font-weight: 700;
+    }
+   
+    button{
+        width: 140px;
+        height: 40px;
+        border-radius: 8px;
+        margin-top: 50px;
+        position: absolute;
+        border: none;
+        color:  rgba(201, 32, 113, 1);
+        font-weight: 700;
+    }
+  
+    .text{
+        font-weight: 700;
+        font-size: 24px;
+        margin-top: 30px;
+    
+       
+    }
+    
+    
+}
+.ornament{
+    padding-top: 50px;
+}
+.section{
+    margin-top: 100px;
+    text-align: center;
+}
+.image_card{
+    align-items: center;
+    margin-left: 290px;
+    // margin: 0 auto;
+    display: flex;
+    // border: 1px solid black;
+    
+}
+.main_data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.img_main{
+    width: 250px;
+    border: 1px solid rgba(128, 128, 128, 0.242);
+}
+.price{
+    font-size: 12px;
+    color: rgba(71, 71, 71, 1);
+    
+   span{
+    color: black;
+   }
+   s{
+    padding-left: 10px;;
+   }
+}
+.main{
+    font-weight: 700;
+    font-size: 12px;
+}
+.jordan{
+    margin-top: 100px;
+    background: rgba(245, 245, 245, 1);
+    padding-top: 50px;
+}
+.elipse{
+    width: 450px;
+    height: 450px;
+    position: relative;
+}
+.laye{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    top: 129rem; 
+    // left:  -5px;
+    right: 55rem;
+}
+.jordan_text{
+    display: flex;
+    gap: 90px;
+    p{
+        font-size: 14px;
+        color: rgba(201, 32, 113, 1);
+        margin-top: 25px;
+
+    }
+    h5{
+        font-weight: 700;
+        font-size: 48px;
+    }
+    span{
+        font-weight: 400;
+        font-size: 16px;
+        color:  rgba(71, 71, 71, 1) ;
+        width: 589px;
+        height: 112px;
+    }
+    button{
+        width: 150px;
+        height: 30px;
+        background: rgba(201, 32, 113, 1);
+        color: white;
+        border: none;
+        border-radius: 6px;
+        margin-top: 20px;
+
+
+    }
+
+
+}
+
+
+
+
